@@ -1,0 +1,143 @@
+Objects: 38
+
+Charger: Models/Enemies/Charger_Model.ZWEB
+Shader: skeletonShader
+Animations: 6
+0: Animations/Charger/Charger_Idle.ZWEB
+9: Animations/Charger/Charger_Load.ZWEB
+2: Animations/Charger/Charger_Run16.ZWEB
+3: Animations/Charger/Charger_RunAttack.ZWEB
+10: Animations/Charger/Charger_Unload.ZWEB
+5: Animations/Charger/Charger_Death.ZWEB
+
+Enemy: Models/Enemies/baseMonster.ZWEB
+Shader: skeletonShader
+Animations: 5
+0: Animations/BaseEnemy/baseMonsterIdle.ZWEB
+1: Animations/BaseEnemy/baseMonsterWalk.ZWEB
+2: Animations/BaseEnemy/baseMonsterRun.ZWEB
+3: Animations/BaseEnemy/baseMonsterAttack.ZWEB
+5: Animations/BaseEnemy/baseMonsterDeath.ZWEB
+
+PlayerArms: Models/Player/Player_Arms.ZWEB
+Shader: skeletonShader
+Animations: 4
+0: Animations/PlayerArms/Player_Idle.ZWEB
+1: Animations/PlayerArms/Player_Walk_Cycle.ZWEB
+2: Animations/PlayerArms/Player_Run.ZWEB
+3: Animations/PlayerArms/Player_Attack.ZWEB
+
+House: Models/House/House_Base.ZWEB
+Shader: houseShader
+Animations: 4
+0: Animations/House/HouseBaseIdle.ZWEB
+1: Animations/House/HouseBaseWalk.ZWEB
+7: Animations/House/HouseBaseSitDown.ZWEB
+6: Animations/House/House_No_Backside_Standing_Idle.ZWEB
+
+HouseLegs: Models/House/House_Legs.ZWEB
+Shader: skeletonShader
+Animations: 4
+0: Animations/House/HouseLegsIdle.ZWEB
+1: Animations/House/HouseLegsWalk.ZWEB
+7: Animations/House/HouseLegsSitDown.ZWEB
+6: Animations/House/house_Legs-Stading_Idle.ZWEB
+
+Lamp: Models/Props/lampa.ZWEB
+Shader: defaultShader
+
+Banana: Models/Pickups/Banana.ZWEB
+Shader: instanceShader
+
+HealthKit: Models/Pickups/Health_Kit.ZWEB
+Shader: instanceShader
+
+Soup: Models/Pickups/Soup_Can.ZWEB
+Shader: instanceShader
+
+Tree: Models/Props/tree.ZWEB
+Shader: instanceShader
+
+Apple: Models/Pickups/Apple.ZWEB
+Shader: instanceShader
+
+Axe: Models/Weapons/AXE.ZWEB
+Shader: defaultShader
+
+Fruits: Models/Pickups/Fruit_Basket.ZWEB
+Shader: instanceShader
+
+FuelCanRed: Models/Pickups/Fuel_Can_Red.ZWEB
+Shader: instanceShader
+
+HealthJar: Models/Pickups/Health_Jar.ZWEB
+Shader: instanceShader
+
+Log: Models/Props/Log.ZWEB
+Shader: instanceShader
+
+Pear: Models/Pickups/Pear.ZWEB
+Shader: instanceShader
+
+Propane: Models/Pickups/Propane.ZWEB
+Shader: instanceShader
+
+Rock1: Models/Props/Rock_1.ZWEB
+Shader: instanceShader
+
+Rock2: Models/Props/Rock_2.ZWEB
+Shader: instanceShader
+
+Curtains: Models/House/Curtains.ZWEB
+Shader: defaultShader
+
+Fireplace: Models/House/Fireplace.ZWEB
+Shader: defaultShader
+
+Logs: Models/House/Logs.ZWEB
+Shader: defaultShader
+
+Bed: Models/House/Bed.ZWEB
+Shader: defaultShader
+
+BookShelf: Models/House/BookShelf.ZWEB
+Shader: defaultShader
+
+Chair: Models/House/Chair.ZWEB
+Shader: defaultShader
+
+HouseInterior: Models/House/HouseInterior.ZWEB
+Shader: defaultShader
+
+Sink: Models/House/Sink.ZWEB
+Shader: defaultShader
+
+Stove: Models/House/Stove.ZWEB
+Shader: defaultShader
+
+InsideDoor: Models/House/InsideDoor.ZWEB
+Shader: defaultShader
+
+Endsign: Models/Props/endSignEmil.ZWEB
+Shader: defaultShader
+
+LeftDirectionSign: Models/Props/LeftDirectionSign.ZWEB
+Shader: defaultShader
+
+HouseDoor: Models/House/House_Door.ZWEB
+Shader: defaultShader
+
+PuzzleFlyStatue: Models/Puzzles/Puzzle_Fly_Statue.ZWEB
+Shader: defaultShader
+
+PuzzleFrogStatue: Models/Puzzles/Puzzle_Frog_statue.ZWEB
+Shader: defaultShader
+
+HouseExterior: Models/House/House_Exterior.ZWEB
+Shader: defaultShader
+
+Table: Models/House/Table.ZWEB
+Shader: defaultShader
+
+RightDirectionSign: Models/Props/RightDirectionSign.ZWEB
+Shader: defaultShader
